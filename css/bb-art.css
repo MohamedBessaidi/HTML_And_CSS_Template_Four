@@ -98,6 +98,11 @@ ul li a {
 header .links nav ul {
     display: flex;
 }
+header .links nav ul li a {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
 header .links nav a,
 header .links  i {
     padding: 14px 16px;
